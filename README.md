@@ -39,7 +39,7 @@ These datasets simulate a **real-world banking/credit risk system**.
 The pipeline integrates **Databricks + Delta Live Tables + AWS services**.
 
 [![
-]https://github.com/SanthiM23/Credit-Risk-Assessment-Pipeline/blob/main/assests/ARCHITECTURE_1773861870064.jpeg?raw=true)]
+]https://Credit-Risk-Assessment-Pipeline/blob/main/assests/ARCHITECTURE_1773861870064.jpeg?raw=true)]
 ### End-to-End Flow
 
 ```
@@ -240,7 +240,7 @@ Credit_Risk_Assessment_Pipeline
 Clone the repository:
 
 ```
-git clone https://github.com/supriya-1109/Credit_Risk_Assessment_Pipeline.git
+git clone https://github.com/SanthiM23/Credit-Risk-Assessment-Pipeline.git
 cd Credit_Risk_Assessment_Pipeline
 ```
 
